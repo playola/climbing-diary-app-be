@@ -1,0 +1,16 @@
+# Dependencies
+node_modules
+
+# Production
+build
+
+# Testing
+coverage
+
+# Misc
+.vscode
+.DS_STORE
+tmp
+
+# Local environment
+.env
